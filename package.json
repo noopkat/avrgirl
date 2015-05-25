@@ -25,5 +25,12 @@
   "bugs": {
     "url": "https://github.com/noopkat/avrgirl/issues"
   },
-  "homepage": "https://github.com/noopkat/avrgirl#readme"
+  "homepage": "https://github.com/noopkat/avrgirl#readme",
+  "dependencies": {
+    "chip.avr.lufacdc": "0.0.2",
+    "intelhex": "0.0.1",
+    "serialport": "^1.7.1",
+    "stk500": "^1.0.3",
+    "stk500-v2": "^1.0.0"
+  }
 }
