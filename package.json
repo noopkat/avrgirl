@@ -1,0 +1,29 @@
+{
+  "name": "avrgirl",
+  "version": "0.0.0",
+  "description": "AVR serial programmer tools for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noopkat/avrgirl.git"
+  },
+  "keywords": [
+    "avrdude",
+    "arduino",
+    "avr",
+    "hex",
+    "programmer",
+    "ispmkii",
+    "stk500",
+    "dragon"
+  ],
+  "author": "Suz Hinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noopkat/avrgirl/issues"
+  },
+  "homepage": "https://github.com/noopkat/avrgirl#readme"
+}
