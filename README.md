@@ -13,7 +13,8 @@ The avrgirl project's purpose is to provide a NodeJS alternative to interacting 
 3. Managing microchip state
 4. Support for all modern day programming devices (including those on Arduino boards)
 
-Why? [I am writing a series about it on my personal blog](http://meow.noopkat.com/the-avrgirl-project-an-introduction/).
+Why? [I am writing a series about it on my personal blog](http://meow.noopkat.com/the-avrgirl-project-an-introduction/).  
+[Watch my talk about avrgirl at JSconfEU 2015](https://www.youtube.com/watch?v=VxxTkhSTJbA)
 
 ## Current state
 
