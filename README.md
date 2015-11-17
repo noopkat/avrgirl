@@ -16,9 +16,9 @@ The avrgirl project's purpose is to provide a NodeJS alternative to interacting 
 Why? [I am writing a series about it on my personal blog](http://meow.noopkat.com/the-avrgirl-project-an-introduction/).  
 [Watch my talk about avrgirl at JSconfEU 2015](https://www.youtube.com/watch?v=VxxTkhSTJbA)
 
-## Current state
+## Releases
 
-The following related packages have been released, more in the works:
+The following standalone packages have been released, more in the works:
 
 1. [avrgirl-arduino](https://github.com/noopkat/avrgirl-arduino) - support for the Arduino platform
 2. [avrgirl-chips-json](https://github.com/noopkat/avrgirl-chips-json) - Atmel® AVR chip config
