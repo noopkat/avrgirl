@@ -26,9 +26,9 @@ The following related packages have been released, more in the works:
 4. [avrgirl-ispmkii](https://github.com/noopkat/avrgirl-ispmkii) - support for the Atmel® AVRISP mkII programming device
 
 
-## Coming up
+## Currently in Beta
 
-1. [avrgirl-usbtinyisp](https://github.com/noopkat/avrgirl-usbtinyisp) - support for usbtinyisp programmers, including the Adafruit Trinket! (almost done)
+1. [avrgirl-usbtinyisp](https://github.com/noopkat/avrgirl-usbtinyisp) - support for usbtinyisp programmers, including the Adafruit Trinket!
 
 ## Future
 This repository will become the 'kitchen sink' package with all avrgirl packages available as a single install and CLI / functional tool to access them.
